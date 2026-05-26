@@ -162,7 +162,7 @@ O Peeling Químico gerava **R$224/hora de lucro** — o maior da clínica — ma
 
 Atendo PMEs em São Paulo e região. Se você quer saber quais produtos do seu negócio estão gerando mais lucro — e quais estão drenando margem — me chama.
 
-📱 **WhatsApp:** (11) (11)919992-9572
+📱 **WhatsApp:** (11))919992-9572
 🌐 **Site:**   
 📧 **E-mail:** 
 💼 **LinkedIn:** 
