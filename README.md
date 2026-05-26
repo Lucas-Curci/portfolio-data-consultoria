@@ -3,7 +3,7 @@
 > Transformando dados de pequenas e médias empresas em decisões que aumentam o lucro.
 
 **Lucas Curci** · Data Science — FIAP São Paulo  
-📱 WhatsApp: (11) (11)919992-9572 · 
+📱 WhatsApp: (11)919992-9572 · 
 
 ---
 
