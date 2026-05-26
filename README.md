@@ -20,30 +20,6 @@ Cada case inclui:
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-portfolio-data-consultoria/
-│
-├── case-01-restaurante/
-│   ├── Case_Restaurante_SaborDaVila.xlsx
-│   ├── Dashboard_Restaurante.pdf
-│   └── README_case.md
-│
-├── case-02-varejo/
-│   ├── Case_Varejo_EstiloMix.xlsx
-│   ├── Dashboard_Varejo.pdf
-│   └── README_case.md
-│
-├── case-03-clinica/
-│   ├── Case_Clinica_VivaSaude.xlsx
-│   ├── Dashboard_Clinica.pdf
-│   └── README_case.md
-│
-└── README.md
-```
-
----
 
 ## 🍽️ Case 01 — Restaurante Sabor da Vila
 
